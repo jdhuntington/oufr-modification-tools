@@ -1,0 +1,109 @@
+{
+  "-": [
+    "Fabric",
+    "Foundation",
+    "Styling",
+    "Utilities"
+  ],
+  "react-cards": [
+    "ActivityItem",
+    "HoverCard",
+    "DocumentCard"
+  ],
+  "react-commanding": [
+    "Nav",
+    "Breadcrumb",
+    "CommandBar",
+    "ResizeGroup",
+    "Pivot",
+    "OverflowSet"
+  ],
+  "react-contextual-menu": [
+    "ContextualMenu"
+  ],
+  "react-data-views": [
+    "List",
+    "MarqueeSelection",
+    "Check",
+    "ShimmeredDetailsList",
+    "SelectedItemsList",
+    "Selection",
+    "DetailsList",
+    "GroupedList"
+  ],
+  "react-date-time": [
+    "DatePicker",
+    "Calendar"
+  ],
+  "react-focus": [
+    "FocusTrapZone",
+    "FocusZone"
+  ],
+  "react-inputs": [
+    "SearchBox",
+    "Rating",
+    "SelectableOption",
+    "Label",
+    "Dropdown",
+    "ComboBox",
+    "Slider",
+    "SpinButton",
+    "Toggle",
+    "Checkbox",
+    "Autofill",
+    "Button",
+    "TextField",
+    "ChoiceGroup",
+    "ChoiceGroupOption"
+  ],
+  "react-notifications": [
+    "Coachmark",
+    "MessageBar",
+    "TeachingBubble",
+    "ProgressIndicator",
+    "Shimmer",
+    "Spinner"
+  ],
+  "react-people": [
+    "Facepile",
+    "Persona",
+    "PersonaCoin",
+    "PersonaPresence"
+  ],
+  "react-pickers": [
+    "ColorPicker",
+    "ExtendedPicker",
+    "FloatingPicker",
+    "Pickers",
+    "SwatchColorPicker"
+  ],
+  "react-primitives": [
+    "Link",
+    "Grid",
+    "Stack",
+    "Color",
+    "Icon",
+    "Icons",
+    "Separator",
+    "Image",
+    "Keytip",
+    "KeytipData",
+    "KeytipLayer",
+    "Divider",
+    "Text",
+    "Announced"
+  ],
+  "react-surfaces": [
+    "Popup",
+    "Layer",
+    "PositioningContainer",
+    "Callout",
+    "Tooltip",
+    "Dialog",
+    "Modal",
+    "Panel",
+    "ScrollablePane",
+    "Sticky",
+    "Overlay"
+  ]
+}

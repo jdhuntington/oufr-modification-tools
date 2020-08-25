@@ -1,0 +1,1624 @@
+{
+  "other": {
+    "count": 283,
+    "result": [
+      {
+        "name": "IDocPageProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/common/DocPage.types.d.ts"
+      },
+      {
+        "name": "PageKind",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/common/DocPage.types.d.ts"
+      },
+      {
+        "name": "ILinkToken",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/common/DocPage.types.d.ts"
+      },
+      {
+        "name": "ITableRowJson",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/common/DocPage.types.d.ts"
+      },
+      {
+        "name": "IEnumTableRowJson",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/common/DocPage.types.d.ts"
+      },
+      {
+        "name": "ITableJson",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/common/DocPage.types.d.ts"
+      },
+      {
+        "name": "IPageJson",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/common/DocPage.types.d.ts"
+      },
+      {
+        "name": "IAccessiblePopupProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/common/IAccessiblePopupProps.d.ts"
+      },
+      {
+        "name": "IShallowRendererProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/common/shallowUntilTarget.d.ts"
+      },
+      {
+        "name": "IShallowUntilTarget",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/common/shallowUntilTarget.d.ts"
+      },
+      {
+        "name": "shallowUntilTarget",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/common/shallowUntilTarget.d.ts"
+      },
+      {
+        "name": "TestImages",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/common/TestImages.d.ts"
+      },
+      {
+        "name": "__TS_2_8_WORKAROUND_COMPONENT__",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/common/testUtilities.d.ts"
+      },
+      {
+        "name": "findNodes",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/common/testUtilities.d.ts"
+      },
+      {
+        "name": "expectNodes",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/common/testUtilities.d.ts"
+      },
+      {
+        "name": "expectOne",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/common/testUtilities.d.ts"
+      },
+      {
+        "name": "expectMissing",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/common/testUtilities.d.ts"
+      },
+      {
+        "name": "delay",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/common/testUtilities.d.ts"
+      },
+      {
+        "name": "mountAttached",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/common/testUtilities.d.ts"
+      },
+      {
+        "name": "renderIntoDocument",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/common/testUtilities.d.ts"
+      },
+      {
+        "name": "mockEvent",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/common/testUtilities.d.ts"
+      },
+      {
+        "name": "standardStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Button/ButtonThemes.d.ts"
+      },
+      {
+        "name": "primaryStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Button/ButtonThemes.d.ts"
+      },
+      {
+        "name": "IDayInfo",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Calendar/CalendarDay.d.ts"
+      },
+      {
+        "name": "ICalendarDay",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Calendar/CalendarDay.d.ts"
+      },
+      {
+        "name": "ICalendarDayProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Calendar/CalendarDay.d.ts"
+      },
+      {
+        "name": "ICalendarDayState",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Calendar/CalendarDay.d.ts"
+      },
+      {
+        "name": "CalendarDay",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Calendar/CalendarDay.d.ts"
+      },
+      {
+        "name": "ICalendarMonth",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Calendar/CalendarMonth.d.ts"
+      },
+      {
+        "name": "ICalendarMonthProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Calendar/CalendarMonth.d.ts"
+      },
+      {
+        "name": "ICalendarMonthState",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Calendar/CalendarMonth.d.ts"
+      },
+      {
+        "name": "CalendarMonth",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Calendar/CalendarMonth.d.ts"
+      },
+      {
+        "name": "ICalendarYearRange",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Calendar/CalendarYear.d.ts"
+      },
+      {
+        "name": "ICalendarYearRangeToString",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Calendar/CalendarYear.d.ts"
+      },
+      {
+        "name": "ICalendarYearStrings",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Calendar/CalendarYear.d.ts"
+      },
+      {
+        "name": "ICalendarYear",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Calendar/CalendarYear.d.ts"
+      },
+      {
+        "name": "ICalendarYearProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Calendar/CalendarYear.d.ts"
+      },
+      {
+        "name": "ICalendarYearHeaderProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Calendar/CalendarYear.d.ts"
+      },
+      {
+        "name": "ICalendarYearState",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Calendar/CalendarYear.d.ts"
+      },
+      {
+        "name": "CalendarYear",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Calendar/CalendarYear.d.ts"
+      },
+      {
+        "name": "ICalloutState",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Callout/CalloutContent.base.d.ts"
+      },
+      {
+        "name": "CalloutContentBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Callout/CalloutContent.base.d.ts"
+      },
+      {
+        "name": "CalloutContent",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Callout/CalloutContent.d.ts"
+      },
+      {
+        "name": "CheckGlobalClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Check/Check.styles.d.ts"
+      },
+      {
+        "name": "ChoiceGroupOptionBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ChoiceGroup/ChoiceGroupOption/ChoiceGroupOption.base.d.ts"
+      },
+      {
+        "name": "BEAK_HEIGHT",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Coachmark/Beak/Beak.d.ts"
+      },
+      {
+        "name": "BEAK_WIDTH",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Coachmark/Beak/Beak.d.ts"
+      },
+      {
+        "name": "Beak",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Coachmark/Beak/Beak.d.ts"
+      },
+      {
+        "name": "IBeakStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Coachmark/Beak/Beak.styles.d.ts"
+      },
+      {
+        "name": "IBeak",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Coachmark/Beak/Beak.types.d.ts"
+      },
+      {
+        "name": "IBeakProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Coachmark/Beak/Beak.types.d.ts"
+      },
+      {
+        "name": "IBeakStylesProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Coachmark/Beak/Beak.types.d.ts"
+      },
+      {
+        "name": "COACHMARK_WIDTH",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Coachmark/Coachmark.styles.d.ts"
+      },
+      {
+        "name": "COACHMARK_HEIGHT",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Coachmark/Coachmark.styles.d.ts"
+      },
+      {
+        "name": "translateOne",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Coachmark/Coachmark.styles.d.ts"
+      },
+      {
+        "name": "scaleOne",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Coachmark/Coachmark.styles.d.ts"
+      },
+      {
+        "name": "rotateOne",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Coachmark/Coachmark.styles.d.ts"
+      },
+      {
+        "name": "IPositioningContainerStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Coachmark/PositioningContainer/PositioningContainer.styles.d.ts"
+      },
+      {
+        "name": "IPositioningContainerNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Coachmark/PositioningContainer/PositioningContainer.styles.d.ts"
+      },
+      {
+        "name": "getClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Coachmark/PositioningContainer/PositioningContainer.styles.d.ts"
+      },
+      {
+        "name": "IColorRectangleState",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ColorPicker/ColorRectangle/ColorRectangle.base.d.ts"
+      },
+      {
+        "name": "ColorRectangleBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ColorPicker/ColorRectangle/ColorRectangle.base.d.ts"
+      },
+      {
+        "name": "_getNewColor",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ColorPicker/ColorRectangle/ColorRectangle.base.d.ts"
+      },
+      {
+        "name": "ColorRectangle",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ColorPicker/ColorRectangle/ColorRectangle.d.ts"
+      },
+      {
+        "name": "IColorSliderState",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ColorPicker/ColorSlider/ColorSlider.base.d.ts"
+      },
+      {
+        "name": "ColorSliderBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ColorPicker/ColorSlider/ColorSlider.base.d.ts"
+      },
+      {
+        "name": "ColorSlider",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ColorPicker/ColorSlider/ColorSlider.d.ts"
+      },
+      {
+        "name": "getOptionStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ComboBox/ComboBox.styles.d.ts"
+      },
+      {
+        "name": "getCaretDownButtonStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ComboBox/ComboBox.styles.d.ts"
+      },
+      {
+        "name": "CONTEXTUAL_MENU_ITEM_HEIGHT",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ContextualMenu/ContextualMenu.cnstyles.d.ts"
+      },
+      {
+        "name": "getMenuItemStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ContextualMenu/ContextualMenu.cnstyles.d.ts"
+      },
+      {
+        "name": "ContextualMenuAnchor",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ContextualMenu/ContextualMenuItemWrapper/ContextualMenuAnchor.d.ts"
+      },
+      {
+        "name": "ContextualMenuButton",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ContextualMenu/ContextualMenuItemWrapper/ContextualMenuButton.d.ts"
+      },
+      {
+        "name": "ContextualMenuItemWrapper",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ContextualMenu/ContextualMenuItemWrapper/ContextualMenuItemWrapper.d.ts"
+      },
+      {
+        "name": "IContextualMenuItemWrapperProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ContextualMenu/ContextualMenuItemWrapper/ContextualMenuItemWrapper.types.d.ts"
+      },
+      {
+        "name": "IContextualMenuSplitButtonState",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ContextualMenu/ContextualMenuItemWrapper/ContextualMenuSplitButton.d.ts"
+      },
+      {
+        "name": "ContextualMenuSplitButton",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ContextualMenu/ContextualMenuItemWrapper/ContextualMenuSplitButton.d.ts"
+      },
+      {
+        "name": "styles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DatePicker/DatePicker.styles.d.ts"
+      },
+      {
+        "name": "DetailsColumn",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DetailsList/DetailsColumn.d.ts"
+      },
+      {
+        "name": "HEADER_HEIGHT",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DetailsList/DetailsHeader.styles.d.ts"
+      },
+      {
+        "name": "getCellStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DetailsList/DetailsHeader.styles.d.ts"
+      },
+      {
+        "name": "DEFAULT_CELL_STYLE_PROPS",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DetailsList/DetailsRow.styles.d.ts"
+      },
+      {
+        "name": "DEFAULT_ROW_HEIGHTS",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DetailsList/DetailsRow.styles.d.ts"
+      },
+      {
+        "name": "CHECK_CELL_WIDTH",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DetailsList/DetailsRowCheck.styles.d.ts"
+      },
+      {
+        "name": "DetailsRowFields",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DetailsList/DetailsRowFields.d.ts"
+      },
+      {
+        "name": "VerticalDividerBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Divider/VerticalDivider.base.d.ts"
+      },
+      {
+        "name": "DocumentCardBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCard.base.d.ts"
+      },
+      {
+        "name": "DocumentCardActionsBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardActions.base.d.ts"
+      },
+      {
+        "name": "DocumentCardActivityBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardActivity.base.d.ts"
+      },
+      {
+        "name": "DocumentCardActivityGlobalClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardActivity.styles.d.ts"
+      },
+      {
+        "name": "DocumentCardDetailsBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardDetails.base.d.ts"
+      },
+      {
+        "name": "IDocumentCardImageState",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardImage.base.d.ts"
+      },
+      {
+        "name": "DocumentCardImageBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardImage.base.d.ts"
+      },
+      {
+        "name": "DocumentCardLocationBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardLocation.base.d.ts"
+      },
+      {
+        "name": "DocumentCardLocationGlobalClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardLocation.styles.d.ts"
+      },
+      {
+        "name": "DocumentCardLogoBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardLogo.base.d.ts"
+      },
+      {
+        "name": "DocumentCardPreviewBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardPreview.base.d.ts"
+      },
+      {
+        "name": "DocumentCardPreviewGlobalClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardPreview.styles.d.ts"
+      },
+      {
+        "name": "DocumentCardStatusBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardStatus.base.d.ts"
+      },
+      {
+        "name": "IDocumentCardTitleState",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardTitle.base.d.ts"
+      },
+      {
+        "name": "DocumentCardTitleBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardTitle.base.d.ts"
+      },
+      {
+        "name": "DocumentCardTitleGlobalClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardTitle.styles.d.ts"
+      },
+      {
+        "name": "DropdownSizePosCache",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Dropdown/utilities/DropdownSizePosCache.d.ts"
+      },
+      {
+        "name": "ISimple",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ExtendedPicker/BaseExtendedPicker.test.d.ts"
+      },
+      {
+        "name": "TypedBaseExtendedPicker",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ExtendedPicker/BaseExtendedPicker.test.d.ts"
+      },
+      {
+        "name": "IFabricClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Fabric/Fabric.styles.d.ts"
+      },
+      {
+        "name": "styles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Facepile/Facepile.styles.d.ts"
+      },
+      {
+        "name": "FacepileButton",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Facepile/FacepileButton.d.ts"
+      },
+      {
+        "name": "ISimple",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/FloatingPicker/BaseFloatingPicker.test.d.ts"
+      },
+      {
+        "name": "TypedBaseFloatingPicker",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/FloatingPicker/BaseFloatingPicker.test.d.ts"
+      },
+      {
+        "name": "SelectedItemDefault",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/FloatingPicker/PeoplePicker/PeoplePickerItems/SelectedItemDefault.d.ts"
+      },
+      {
+        "name": "SuggestionItemNormal",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/FloatingPicker/PeoplePicker/PeoplePickerItems/SuggestionItemDefault.d.ts"
+      },
+      {
+        "name": "IGroupedListSectionProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/GroupedList/GroupedListSection.d.ts"
+      },
+      {
+        "name": "IGroupedListSectionState",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/GroupedList/GroupedListSection.d.ts"
+      },
+      {
+        "name": "GroupedListSection",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/GroupedList/GroupedListSection.d.ts"
+      },
+      {
+        "name": "GroupFooterBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/GroupedList/GroupFooter.base.d.ts"
+      },
+      {
+        "name": "IGroupHeaderState",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/GroupedList/GroupHeader.base.d.ts"
+      },
+      {
+        "name": "GroupHeaderBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/GroupedList/GroupHeader.base.d.ts"
+      },
+      {
+        "name": "GroupShowAllBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/GroupedList/GroupShowAll.base.d.ts"
+      },
+      {
+        "name": "IBaseCardProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/HoverCard/BaseCard.types.d.ts"
+      },
+      {
+        "name": "IBaseCardStyleProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/HoverCard/BaseCard.types.d.ts"
+      },
+      {
+        "name": "IBaseCardStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/HoverCard/BaseCard.types.d.ts"
+      },
+      {
+        "name": "ICardCalloutProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/HoverCard/CardCallout/CardCallout.d.ts"
+      },
+      {
+        "name": "CardCallout",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/HoverCard/CardCallout/CardCallout.d.ts"
+      },
+      {
+        "name": "getCalloutStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Keytip/Keytip.styles.d.ts"
+      },
+      {
+        "name": "getCalloutOffsetStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Keytip/Keytip.styles.d.ts"
+      },
+      {
+        "name": "KeytipContentBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Keytip/KeytipContent.base.d.ts"
+      },
+      {
+        "name": "KeytipContent",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Keytip/KeytipContent.d.ts"
+      },
+      {
+        "name": "IKeytip",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/KeytipData/KeytipData.types.d.ts"
+      },
+      {
+        "name": "IKeytipDataProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/KeytipData/KeytipData.types.d.ts"
+      },
+      {
+        "name": "IKeytipTreeNode",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/KeytipLayer/IKeytipTreeNode.d.ts"
+      },
+      {
+        "name": "getLayerStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/KeytipLayer/KeytipLayer.styles.d.ts"
+      },
+      {
+        "name": "KeytipTree",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/KeytipLayer/KeytipTree.d.ts"
+      },
+      {
+        "name": "registerLayer",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Layer/Layer.notification.d.ts"
+      },
+      {
+        "name": "unregisterLayer",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Layer/Layer.notification.d.ts"
+      },
+      {
+        "name": "notifyHostChanged",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Layer/Layer.notification.d.ts"
+      },
+      {
+        "name": "setDefaultTarget",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Layer/Layer.notification.d.ts"
+      },
+      {
+        "name": "getDefaultTarget",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Layer/Layer.notification.d.ts"
+      },
+      {
+        "name": "ILayerHost",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Layer/LayerHost.types.d.ts"
+      },
+      {
+        "name": "ILayerHostProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Layer/LayerHost.types.d.ts"
+      },
+      {
+        "name": "IMarqueeSelectionState",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/MarqueeSelection/MarqueeSelection.base.d.ts"
+      },
+      {
+        "name": "MarqueeSelectionBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/MarqueeSelection/MarqueeSelection.base.d.ts"
+      },
+      {
+        "name": "animationDuration",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Modal/Modal.styles.d.ts"
+      },
+      {
+        "name": "buttonStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Nav/Nav.styles.d.ts"
+      },
+      {
+        "name": "PanelBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Panel/Panel.base.d.ts"
+      },
+      {
+        "name": "wrapPersona",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Persona/Persona.test.d.ts"
+      },
+      {
+        "name": "PersonaPresenceBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Persona/PersonaPresence/PersonaPresence.base.d.ts"
+      },
+      {
+        "name": "PersonaPresence",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Persona/PersonaPresence/PersonaPresence.d.ts"
+      },
+      {
+        "name": "ISimple",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/pickers/BasePicker.test.d.ts"
+      },
+      {
+        "name": "SelectedItemDefault",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/pickers/PeoplePicker/PeoplePickerItems/SelectedItemDefault.d.ts"
+      },
+      {
+        "name": "IPeoplePickerItemWithMenuState",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/pickers/PeoplePicker/PeoplePickerItems/SelectedItemWithMenu.d.ts"
+      },
+      {
+        "name": "SelectedItemWithMenu",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/pickers/PeoplePicker/PeoplePickerItems/SelectedItemWithMenu.d.ts"
+      },
+      {
+        "name": "SuggestionItemNormal",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/pickers/PeoplePicker/PeoplePickerItems/SuggestionItemDefault.d.ts"
+      },
+      {
+        "name": "SuggestionItemSmall",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/pickers/PeoplePicker/PeoplePickerItems/SuggestionItemDefault.d.ts"
+      },
+      {
+        "name": "ISimple",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/pickers/Suggestions/Suggestions.test.d.ts"
+      },
+      {
+        "name": "SuggestionsItemGlobalClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/pickers/Suggestions/SuggestionsItem.styles.d.ts"
+      },
+      {
+        "name": "ISimple",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/SelectedItemsList/BaseSelectedItemsList.test.d.ts"
+      },
+      {
+        "name": "TypedBaseSelectedItemsList",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/SelectedItemsList/BaseSelectedItemsList.test.d.ts"
+      },
+      {
+        "name": "IEditingSelectedPeopleItemProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/SelectedItemsList/SelectedPeopleList/Items/EditingItem.d.ts"
+      },
+      {
+        "name": "EditingItem",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/SelectedItemsList/SelectedPeopleList/Items/EditingItem.d.ts"
+      },
+      {
+        "name": "IPeoplePickerItemState",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/SelectedItemsList/SelectedPeopleList/Items/SelectedItemWithContextMenu.d.ts"
+      },
+      {
+        "name": "ISelectedItemWithContextMenuProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/SelectedItemsList/SelectedPeopleList/Items/SelectedItemWithContextMenu.d.ts"
+      },
+      {
+        "name": "SelectedItemWithContextMenu",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/SelectedItemsList/SelectedPeopleList/Items/SelectedItemWithContextMenu.d.ts"
+      },
+      {
+        "name": "getArrowButtonStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/SpinButton/SpinButton.styles.d.ts"
+      },
+      {
+        "name": "styles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Stack/Stack.styles.d.ts"
+      },
+      {
+        "name": "StackItemStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Stack/StackItem/StackItem.styles.d.ts"
+      },
+      {
+        "name": "parseGap",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Stack/StackUtils.d.ts"
+      },
+      {
+        "name": "parsePadding",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Stack/StackUtils.d.ts"
+      },
+      {
+        "name": "IMaskValue",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/TextField/MaskedTextField/inputMask.d.ts"
+      },
+      {
+        "name": "DEFAULT_MASK_FORMAT_CHARS",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/TextField/MaskedTextField/inputMask.d.ts"
+      },
+      {
+        "name": "parseMask",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/TextField/MaskedTextField/inputMask.d.ts"
+      },
+      {
+        "name": "getMaskDisplay",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/TextField/MaskedTextField/inputMask.d.ts"
+      },
+      {
+        "name": "getRightFormatIndex",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/TextField/MaskedTextField/inputMask.d.ts"
+      },
+      {
+        "name": "getLeftFormatIndex",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/TextField/MaskedTextField/inputMask.d.ts"
+      },
+      {
+        "name": "clearRange",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/TextField/MaskedTextField/inputMask.d.ts"
+      },
+      {
+        "name": "clearNext",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/TextField/MaskedTextField/inputMask.d.ts"
+      },
+      {
+        "name": "clearPrev",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/TextField/MaskedTextField/inputMask.d.ts"
+      },
+      {
+        "name": "insertString",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/TextField/MaskedTextField/inputMask.d.ts"
+      },
+      {
+        "name": "defaultPalette",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Theme/defaultTheme.d.ts"
+      },
+      {
+        "name": "defaultSemanticColors",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Theme/defaultTheme.d.ts"
+      },
+      {
+        "name": "IThemePagePalette",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Theme/ThemePage.types.d.ts"
+      },
+      {
+        "name": "IThemePageState",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Theme/ThemePage.types.d.ts"
+      },
+      {
+        "name": "IThemePageStyleProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Theme/ThemePage.types.d.ts"
+      },
+      {
+        "name": "IThemePageStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Theme/ThemePage.types.d.ts"
+      },
+      {
+        "name": "TeamsCustomizations",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/customizations/TeamsCustomizations.d.ts"
+      },
+      {
+        "name": "_rgbaOrHexString",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/color/_rgbaOrHexString.d.ts"
+      },
+      {
+        "name": "getIsChecked",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/contextualMenu/contextualMenuUtility.d.ts"
+      },
+      {
+        "name": "hasSubmenu",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/contextualMenu/contextualMenuUtility.d.ts"
+      },
+      {
+        "name": "isItemDisabled",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/contextualMenu/contextualMenuUtility.d.ts"
+      },
+      {
+        "name": "addDays",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dateMath/DateMath.d.ts"
+      },
+      {
+        "name": "addWeeks",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dateMath/DateMath.d.ts"
+      },
+      {
+        "name": "addMonths",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dateMath/DateMath.d.ts"
+      },
+      {
+        "name": "addYears",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dateMath/DateMath.d.ts"
+      },
+      {
+        "name": "getMonthStart",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dateMath/DateMath.d.ts"
+      },
+      {
+        "name": "getMonthEnd",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dateMath/DateMath.d.ts"
+      },
+      {
+        "name": "getYearStart",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dateMath/DateMath.d.ts"
+      },
+      {
+        "name": "getYearEnd",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dateMath/DateMath.d.ts"
+      },
+      {
+        "name": "setMonth",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dateMath/DateMath.d.ts"
+      },
+      {
+        "name": "compareDates",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dateMath/DateMath.d.ts"
+      },
+      {
+        "name": "compareDatePart",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dateMath/DateMath.d.ts"
+      },
+      {
+        "name": "getDateRangeArray",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dateMath/DateMath.d.ts"
+      },
+      {
+        "name": "isInDateRangeArray",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dateMath/DateMath.d.ts"
+      },
+      {
+        "name": "getWeekNumbersInMonth",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dateMath/DateMath.d.ts"
+      },
+      {
+        "name": "getWeekNumber",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dateMath/DateMath.d.ts"
+      },
+      {
+        "name": "getStartDateOfWeek",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dateMath/DateMath.d.ts"
+      },
+      {
+        "name": "DayOfWeek",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dateValues/DateValues.d.ts"
+      },
+      {
+        "name": "MonthOfYear",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dateValues/DateValues.d.ts"
+      },
+      {
+        "name": "FirstWeekOfYear",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dateValues/DateValues.d.ts"
+      },
+      {
+        "name": "DateRangeType",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dateValues/DateValues.d.ts"
+      },
+      {
+        "name": "BaseDecorator",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/decorators/BaseDecorator.d.ts"
+      },
+      {
+        "name": "withContainsFocus",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/decorators/withContainsFocus.d.ts"
+      },
+      {
+        "name": "IWithResponsiveModeState",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/decorators/withResponsiveMode.d.ts"
+      },
+      {
+        "name": "ResponsiveMode",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/decorators/withResponsiveMode.d.ts"
+      },
+      {
+        "name": "setResponsiveMode",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/decorators/withResponsiveMode.d.ts"
+      },
+      {
+        "name": "withResponsiveMode",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/decorators/withResponsiveMode.d.ts"
+      },
+      {
+        "name": "IViewport",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/decorators/withViewport.d.ts"
+      },
+      {
+        "name": "IWithViewportState",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/decorators/withViewport.d.ts"
+      },
+      {
+        "name": "IWithViewportProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/decorators/withViewport.d.ts"
+      },
+      {
+        "name": "withViewport",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/decorators/withViewport.d.ts"
+      },
+      {
+        "name": "IDragDropHelperParams",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dragdrop/DragDropHelper.d.ts"
+      },
+      {
+        "name": "DragDropHelper",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dragdrop/DragDropHelper.d.ts"
+      },
+      {
+        "name": "IDragDropHelper",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dragdrop/interfaces.d.ts"
+      },
+      {
+        "name": "IDragDropEvents",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dragdrop/interfaces.d.ts"
+      },
+      {
+        "name": "IDragDropContext",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dragdrop/interfaces.d.ts"
+      },
+      {
+        "name": "IDragDropTarget",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dragdrop/interfaces.d.ts"
+      },
+      {
+        "name": "IDragDropOptions",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dragdrop/interfaces.d.ts"
+      },
+      {
+        "name": "IDragDropEvent",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/dragdrop/interfaces.d.ts"
+      },
+      {
+        "name": "IDraggableZoneState",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/DraggableZone/DraggableZone.d.ts"
+      },
+      {
+        "name": "DraggableZone",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/DraggableZone/DraggableZone.d.ts"
+      },
+      {
+        "name": "IDraggableZoneStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/DraggableZone/DraggableZone.styles.d.ts"
+      },
+      {
+        "name": "getClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/DraggableZone/DraggableZone.styles.d.ts"
+      },
+      {
+        "name": "IDragData",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/DraggableZone/DraggableZone.types.d.ts"
+      },
+      {
+        "name": "ICoordinates",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/DraggableZone/DraggableZone.types.d.ts"
+      },
+      {
+        "name": "IDraggableZoneProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/DraggableZone/DraggableZone.types.d.ts"
+      },
+      {
+        "name": "createListItems",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/exampleData.d.ts"
+      },
+      {
+        "name": "createGroups",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/exampleData.d.ts"
+      },
+      {
+        "name": "lorem",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/exampleData.d.ts"
+      },
+      {
+        "name": "isGroupable",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/exampleData.d.ts"
+      },
+      {
+        "name": "GridBase",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/grid/Grid.base.d.ts"
+      },
+      {
+        "name": "GetGroupCount",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/groupedList/GroupedListUtility.d.ts"
+      },
+      {
+        "name": "KeytipTransitionModifier",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/IKeytipTransitionKey.d.ts"
+      },
+      {
+        "name": "IKeytipTransitionKey",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/IKeytipTransitionKey.d.ts"
+      },
+      {
+        "name": "transitionKeysAreEqual",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/IKeytipTransitionKey.d.ts"
+      },
+      {
+        "name": "transitionKeysContain",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/IKeytipTransitionKey.d.ts"
+      },
+      {
+        "name": "IKeytipConfig",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/KeytipConfig.d.ts"
+      },
+      {
+        "name": "IKeytipConfigItem",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/KeytipConfig.d.ts"
+      },
+      {
+        "name": "IKeytipConfigMap",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/KeytipConfig.d.ts"
+      },
+      {
+        "name": "buildKeytipConfigMap",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/KeytipConfig.d.ts"
+      },
+      {
+        "name": "constructKeytip",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/KeytipConfig.d.ts"
+      },
+      {
+        "name": "KTP_PREFIX",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/KeytipConstants.d.ts"
+      },
+      {
+        "name": "KTP_SEPARATOR",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/KeytipConstants.d.ts"
+      },
+      {
+        "name": "KTP_FULL_PREFIX",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/KeytipConstants.d.ts"
+      },
+      {
+        "name": "DATAKTP_TARGET",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/KeytipConstants.d.ts"
+      },
+      {
+        "name": "DATAKTP_EXECUTE_TARGET",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/KeytipConstants.d.ts"
+      },
+      {
+        "name": "KTP_LAYER_ID",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/KeytipConstants.d.ts"
+      },
+      {
+        "name": "KTP_ARIA_SEPARATOR",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/KeytipConstants.d.ts"
+      },
+      {
+        "name": "KeytipEvents",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/KeytipConstants.d.ts"
+      },
+      {
+        "name": "IUniqueKeytip",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/KeytipManager.d.ts"
+      },
+      {
+        "name": "KeytipManager",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/KeytipManager.d.ts"
+      },
+      {
+        "name": "sequencesToID",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/KeytipUtils.d.ts"
+      },
+      {
+        "name": "mergeOverflows",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/KeytipUtils.d.ts"
+      },
+      {
+        "name": "ktpTargetFromSequences",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/KeytipUtils.d.ts"
+      },
+      {
+        "name": "ktpTargetFromId",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/KeytipUtils.d.ts"
+      },
+      {
+        "name": "getAriaDescribedBy",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/keytips/KeytipUtils.d.ts"
+      },
+      {
+        "name": "Rectangle",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/positioning/positioning.d.ts"
+      },
+      {
+        "name": "IElementPosition",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/positioning/positioning.d.ts"
+      },
+      {
+        "name": "IElementPositionInfo",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/positioning/positioning.d.ts"
+      },
+      {
+        "name": "__positioningTestPackage",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/positioning/positioning.d.ts"
+      },
+      {
+        "name": "positionElement",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/positioning/positioning.d.ts"
+      },
+      {
+        "name": "positionCallout",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/positioning/positioning.d.ts"
+      },
+      {
+        "name": "getMaxHeight",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/positioning/positioning.d.ts"
+      },
+      {
+        "name": "getOppositeEdge",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/positioning/positioning.d.ts"
+      },
+      {
+        "name": "RectangleEdge",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/positioning/positioning.types.d.ts"
+      },
+      {
+        "name": "Position",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/positioning/positioning.types.d.ts"
+      },
+      {
+        "name": "IPositionProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/positioning/positioning.types.d.ts"
+      },
+      {
+        "name": "ICalloutPositionProps",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/positioning/positioning.types.d.ts"
+      },
+      {
+        "name": "IPositionedData",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/positioning/positioning.types.d.ts"
+      },
+      {
+        "name": "ICalloutPositionedInfo",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/positioning/positioning.types.d.ts"
+      },
+      {
+        "name": "ICalloutBeakPositionedInfo",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/positioning/positioning.types.d.ts"
+      },
+      {
+        "name": "IPosition",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/positioning/positioning.types.d.ts"
+      },
+      {
+        "name": "IPoint",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/positioning/positioning.types.d.ts"
+      },
+      {
+        "name": "IPositionDirectionalHintData",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/positioning/positioning.types.d.ts"
+      },
+      {
+        "name": "IRelativePositions",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/positioning/positioning.types.d.ts"
+      }
+    ]
+  },
+  "styles": {
+    "count": 120,
+    "result": [
+      {
+        "name": "IActivityItemClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ActivityItem/ActivityItem.classNames.d.ts"
+      },
+      {
+        "name": "getClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ActivityItem/ActivityItem.classNames.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ActivityItem/ActivityItem.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Announced/Announced.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Breadcrumb/Breadcrumb.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Button/ActionButton/ActionButton.styles.d.ts"
+      },
+      {
+        "name": "IButtonClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Button/BaseButton.classNames.d.ts"
+      },
+      {
+        "name": "ButtonGlobalClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Button/BaseButton.classNames.d.ts"
+      },
+      {
+        "name": "getBaseButtonClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Button/BaseButton.classNames.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Button/BaseButton.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Button/CommandBarButton/CommandBarButton.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Button/CompoundButton/CompoundButton.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Button/DefaultButton/DefaultButton.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Button/IconButton/IconButton.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Button/MessageBarButton/MessageBarButton.styles.d.ts"
+      },
+      {
+        "name": "ISplitButtonClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Button/SplitButton/SplitButton.classNames.d.ts"
+      },
+      {
+        "name": "getClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Button/SplitButton/SplitButton.classNames.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Button/SplitButton/SplitButton.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Callout/CalloutContent.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Check/Check.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Checkbox/Checkbox.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ChoiceGroup/ChoiceGroup.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ChoiceGroup/ChoiceGroupOption/ChoiceGroupOption.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Coachmark/Beak/Beak.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Coachmark/Coachmark.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ColorPicker/ColorPicker.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ColorPicker/ColorRectangle/ColorRectangle.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ColorPicker/ColorSlider/ColorSlider.styles.d.ts"
+      },
+      {
+        "name": "IComboBoxClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ComboBox/ComboBox.classNames.d.ts"
+      },
+      {
+        "name": "IComboBoxOptionClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ComboBox/ComboBox.classNames.d.ts"
+      },
+      {
+        "name": "getClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ComboBox/ComboBox.classNames.d.ts"
+      },
+      {
+        "name": "getComboBoxOptionClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ComboBox/ComboBox.classNames.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ComboBox/ComboBox.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/CommandBar/CommandBar.styles.d.ts"
+      },
+      {
+        "name": "IContextualMenuClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ContextualMenu/ContextualMenu.classNames.d.ts"
+      },
+      {
+        "name": "IMenuItemClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ContextualMenu/ContextualMenu.classNames.d.ts"
+      },
+      {
+        "name": "getSplitButtonVerticalDividerClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ContextualMenu/ContextualMenu.classNames.d.ts"
+      },
+      {
+        "name": "getItemClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ContextualMenu/ContextualMenu.classNames.d.ts"
+      },
+      {
+        "name": "getItemStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ContextualMenu/ContextualMenu.classNames.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ContextualMenu/ContextualMenu.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DetailsList/DetailsColumn.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DetailsList/DetailsHeader.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DetailsList/DetailsList.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DetailsList/DetailsRow.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DetailsList/DetailsRowCheck.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DetailsList/ShimmeredDetailsList.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Dialog/Dialog.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Dialog/DialogContent.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Dialog/DialogFooter.styles.d.ts"
+      },
+      {
+        "name": "getDividerClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Divider/VerticalDivider.classNames.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Divider/VerticalDivider.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCard.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardActions.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardActivity.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardDetails.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardImage.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardLocation.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardLogo.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardPreview.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardStatus.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/DocumentCard/DocumentCardTitle.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Dropdown/Dropdown.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Fabric/Fabric.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Facepile/FacepileButton.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/GroupedList/GroupedList.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/GroupedList/GroupFooter.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/GroupedList/GroupHeader.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/GroupedList/GroupShowAll.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/HoverCard/ExpandingCard.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/HoverCard/HoverCard.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/HoverCard/PlainCard/PlainCard.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Icon/Icon.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Image/Image.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Keytip/Keytip.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/KeytipLayer/KeytipLayer.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Label/Label.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Layer/Layer.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Link/Link.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/MarqueeSelection/MarqueeSelection.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/MessageBar/MessageBar.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Modal/Modal.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Nav/Nav.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/OverflowSet/OverflowSet.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Overlay/Overlay.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Panel/Panel.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Persona/Persona.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Persona/PersonaCoin/PersonaCoin.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Persona/PersonaPresence/PersonaPresence.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/pickers/BasePicker.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/pickers/PeoplePicker/PeoplePickerItems/PeoplePickerItem.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/pickers/PeoplePicker/PeoplePickerItems/PeoplePickerItemSuggestion.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/pickers/Suggestions/Suggestions.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/pickers/Suggestions/SuggestionsItem.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/pickers/TagPicker/TagItem.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/pickers/TagPicker/TagItemSuggestion.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Pivot/Pivot.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ProgressIndicator/ProgressIndicator.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Rating/Rating.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/ScrollablePane/ScrollablePane.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/SearchBox/SearchBox.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Separator/Separator.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Shimmer/Shimmer.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Shimmer/ShimmerCircle/ShimmerCircle.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Shimmer/ShimmerElementsGroup/ShimmerElementsGroup.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Shimmer/ShimmerGap/ShimmerGap.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Shimmer/ShimmerLine/ShimmerLine.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Slider/Slider.styles.d.ts"
+      },
+      {
+        "name": "ISpinButtonClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/SpinButton/SpinButton.classNames.d.ts"
+      },
+      {
+        "name": "getClassNames",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/SpinButton/SpinButton.classNames.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/SpinButton/SpinButton.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Spinner/Spinner.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/SwatchColorPicker/ColorPickerGridCell.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/SwatchColorPicker/SwatchColorPicker.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/TeachingBubble/TeachingBubble.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/TextField/TextField.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Theme/ThemePage.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Toggle/Toggle.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Tooltip/Tooltip.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/components/Tooltip/TooltipHost.styles.d.ts"
+      },
+      {
+        "name": "getStyles",
+        "src": "/Users/jdh/projects/office-ui-fabric-react/packages/office-ui-fabric-react/lib/utilities/grid/Grid.styles.d.ts"
+      }
+    ]
+  }
+}

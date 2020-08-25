@@ -1,0 +1,32 @@
+{
+  "name": "@uifabric/migration",
+  "version": "7.0.2",
+  "description": "Migration scripts for UI Fabric",
+  "main": "lib/index.js",
+  "bin": {
+    "migration": "./bin/migration.js"
+  },
+  "typings": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OfficeDev/office-ui-fabric-react"
+  },
+  "license": "MIT",
+  "scripts": {},
+  "devDependencies": {
+    "@types/argparse": "^1.0.36",
+    "@types/glob": "^7.1.1",
+    "@types/jest": "23.0.0",
+    "@types/mock-fs": "3.6.30",
+    "@types/node": "^8.10.29",
+    "@types/semver": "^5.5.0",
+    "glob": "^7.1.2",
+    "mock-fs": "4.10.0"
+  },
+  "dependencies": {
+    "argparse": "1.0.10",
+    "riceburn": "1.3.1",
+    "tslib": "^1.7.1",
+    "typescript": "3.5.1"
+  }
+}
